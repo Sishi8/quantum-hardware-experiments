@@ -3,6 +3,9 @@
 ## Overview
 
 This layout represents a 7-qubit heavy-hex unit cell, which is the fundamental building block used in scalable superconducting quantum processors.
+## Layout
+
+![7Q Layout](7q_layout.png)
 
 ---
 
