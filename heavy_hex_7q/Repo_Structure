@@ -1,0 +1,17 @@
+ 
+##  Repository Structure
+
+| Folder / File | Description | Why it exists |
+|--------------|------------|--------------|
+| heavy_hex_7q/ | Original base exploration | Initial experiments and layout attempts |
+| ├── design.metal | Qiskit Metal layout | Raw geometry from tool |
+| ├── layout.ipynb | Layout notebook | Early design exploration |
+| ├── explanation.md | Concept explanation | First-level understanding |
+| ├── 7q_layout.png | Layout visualization | Visual reference |
+
+| heavy_hex_7q/heavy_hex_7q_topology/ | Refined + structured model (MAIN WORK) | Clean version for research direction |
+| ├── design_v2.metal | Updated topology layout | Improved geometric clarity |
+| ├── design_metalv2_topology.png | Topology visualization | Clean structure view |
+| ├── layout_v2.ipynb | Geometry notebook | Refined layout work |
+| ├── coupling_hamiltonian_7q.ipynb | Core physics model | Converts layout → Hamiltonian |
+| ├── README.md | Detailed explanation | Documents reasoning + approach |
